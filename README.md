@@ -35,6 +35,10 @@ The official mining guide is [GPU miner guide](https://wiki.alephium.org/GPU-Min
 * [Tutorial video for mining - Chinese / 中文](https://www.youtube.com/watch?v=-hLQDnth0iM)
 * [Tutorial for mining on vast.ai](https://github.com/diomark/alph/blob/main/miningAlphOnVast.md)
 
+## Mining-Pool
+
+* [Bash script to parse mining-pool logs](https://www.as2613.net/Alf/checklogsv001.sh) - credit to PorCus
+
 ### Contributors
 
 <a href="https://github.com/alephium/awesome-alephium/graphs/contributors">
